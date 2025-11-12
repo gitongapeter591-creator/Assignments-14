@@ -1,7 +1,3 @@
-/*
-NAME:Shedrack Kiilu
-REG NO:CT100/G/23588/25
-*/
 
 #include <stdio.h>
  float bill(int units) {
@@ -24,3 +20,4 @@ int units;
 printf("TOTAL BILL= KSH. %.2f\n",bill(units));
   return 0;
   }
+
