@@ -1,8 +1,3 @@
-/*
-NAME:Shedrack Kiilu
-REG NO:CT100/G/23588/24
-DATE:6TH/NOV/2025
-*/
 
 #include <stdio.h>
 
@@ -24,4 +19,5 @@ int main() {
     printf("The sum of all elements in the array is: %d\n", sum);
     
     return 0;
+
 }
