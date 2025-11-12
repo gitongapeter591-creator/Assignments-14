@@ -1,8 +1,3 @@
-/*
-NAME:shedrack kiilu
-REG NO:ct100/g/23588/24
-DATE:6TH NOV 2025
-*/
 
 #include <stdio.h>
 
@@ -35,4 +30,5 @@ int main() {
     printf("\nNet Pay: %.2f\n", netPay);
 
     return 0;
+
 }
