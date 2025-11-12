@@ -1,6 +1,6 @@
 /*
-name:Shedrack Kiilu
-reg no:CT100/G/23588/24
+name:
+reg no:
 
 */
 
@@ -30,4 +30,5 @@ int main() {
 
     printf("end of youY transaction,TOP UP\n");
     return 0;
+
 }
